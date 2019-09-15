@@ -34,6 +34,7 @@
     "robot-hooks": "^0.1.0"
   },
   "devDependencies": {
+    "haunted": "^4.5.4",
     "http-server": "^0.11.1",
     "node-qunit-puppeteer": "^1.0.13",
     "robot3": "^0.1.0"
