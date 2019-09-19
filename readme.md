@@ -2,6 +2,8 @@
 
 [Haunted](https://github.com/matthewp/haunted) hooks for use with [Robot](https://thisrobot.life/).
 
+See documentation on [the website](https://thisrobot.life/integrations/haunted-robot.html).
+
 ```js
 import { useMachine } from 'haunted-robot';
 import { html, component } from 'haunted';
