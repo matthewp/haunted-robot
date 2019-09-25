@@ -28,15 +28,15 @@
   },
   "homepage": "https://github.com/matthewp/haunted-robot#readme",
   "peerDependencies": {
-    "robot3": "^0.2.0"
+    "robot3": "^0.2.3"
   },
   "dependencies": {
-    "robot-hooks": "0.2.0"
+    "robot-hooks": "^0.3.1"
   },
   "devDependencies": {
-    "haunted": "^4.5.4",
+    "haunted": "^4.6.0",
     "http-server": "^0.11.1",
     "node-qunit-puppeteer": "^1.0.13",
-    "robot3": "0.2.0"
+    "robot3": "^0.2.3"
   }
 }
